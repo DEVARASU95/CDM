@@ -20,7 +20,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![DaisyBot logo](https://telegra.ph/file/1d5b67c7d155ddb587cde.jpg)](https://t.me/DaisyXNews)
+[![DaisyBot logo](https://telegra.ph/file/dffa1ac6fb99ba109ac66.jpg)](https://t.me/DaisyXNews)
 
 # Support
 <a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
