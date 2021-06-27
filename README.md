@@ -1,5 +1,4 @@
-# Daisy-X-UB
-
+# CDM-X
 <h3>☣️ The Most Super Powerfull UserBot ☣️</h3>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TeamDaisyX/Daisy-X-UB?utm_source=github.com&utm_medium=referral&utm_content=TeamCDM/Daisy-X-UB&utm_campaign=Badge_Grade_Settings)
